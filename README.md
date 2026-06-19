@@ -1,4 +1,4 @@
-# 20260617
+# python-fundamentals
 Python Study for Microsoft Data School DS
 * VS Code install
 * Git for windows install
